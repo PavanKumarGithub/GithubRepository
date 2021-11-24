@@ -24,5 +24,6 @@ namespace AppCenter
         protected override void OnResume()
         {
         }
+
     }
 }
